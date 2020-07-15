@@ -159,7 +159,7 @@ def adm():
 
         if opcao == 3:
         
-            print("\n Nessa área, o caixa emitira um relatório para que nós do administrativo tenhamos controle de suas movimentações em determinado período de tempo, como por exemplo a quantidade de extratos emitidos, saques, depósitos, transferências e toda a quantia de dinheiro envolvida nestes processos.")
+            print("\n Aqui, o caixa irá emitir/mostrar um relatório para que nós do administrativo tenhamos controle de suas movimentações em determinado período de tempo, como por exemplo a quantidade de extratos emitidos, saques, depósitos, transferências e toda a quantia de dinheiro envolvida nestes processos.")
             time.sleep(9)
     
             #irá gerar o arquivo txt
