@@ -1,6 +1,6 @@
 import os
 import time
-
+#Teste
 print("========= Aperte enter para entrar ========== \n")
 #então pessoal, toda vez que eu acresentar um: def (alguma coisa), estou me relacionando ao método que irei usar.
 def movimentação(): 
